@@ -1,0 +1,52 @@
+
+
+#content{
+    min-height: 600px;
+    background-color:rgba(179, 163, 175, 0.34);
+}
+footer {
+    position:relative;
+    padding: 10px 0;
+    background-color: #f8f8f8;
+    color:#6f6565;
+    bottom: 0;
+    width: 100%;
+}
+
+.panel-head{
+     margin-top: 80px;
+}
+
+.login-head{
+    background-color: rgba(48, 118, 206, 0.11);
+    color: brown;
+    border-radius: 5px;
+    padding: 5px;
+}
+#banner_image {
+    padding-bottom: 250px;
+    color: #f8f8f8;
+    background: url(../image/register.jpg) no-repeat center center;
+    background-size: cover;
+}
+#banner_image_admin{
+     padding-bottom: 450px;
+    color: #f8f8f8;
+    background: url(../image/fastcontact.jpg) no-repeat center center;
+    background-size: cover;
+}
+#welcome{
+    position:relative;
+    margin:200px 300px 50px 300px;
+}
+#top{
+    position:relative;
+    margin-top: 80px;
+}
+#logo{
+     padding:60px; 
+     background-color:rgba(62, 25, 210, 0.24); 
+     border: 1px solid#293080; 
+     border-radius:100%; 
+     margin:5px 160px 8px 180px;
+}
